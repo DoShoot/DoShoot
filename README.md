@@ -1,8 +1,8 @@
 # Илья Душутин (DoShoot)
 
 ## Контактная информация
-- Почта: doshootin@gmail.com &#128231;
-- Instagram: [@ilya_doshoot](https://www.instagram.com/ilya_doshoot/) &#127988;
+- Почта: doshootin@gmail.com
+- Instagram: [@ilya_doshoot](https://www.instagram.com/ilya_doshoot/)
 
 ## Профессиональный заголовок
 Планирую стать разработчиком игр
