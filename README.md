@@ -2,11 +2,11 @@
 
 ## Контактная информация
 - Почта: doshootin@gmail.com
-- Instagram: [@ilya_doshoot](https://www.instagram.com/ilya_doshoot/)
+[@ilya_doshoot](https://www.instagram.com/ilya_doshoot/)
 
 ## Профессиональный заголовок
 Планирую стать разработчиком игр
-
+<img src="public/icons/spotify/spotify.svg" alt="Spotify Icon" width="48" height="48">
 ## Опыт и навыки
 Пока что я только начинающий и не имею опыта в разработке игр. Однако, я уверен, что смогу освоить необходимые навыки и достичь своей цели.
 
